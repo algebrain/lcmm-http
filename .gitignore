@@ -19,3 +19,5 @@ plan-*.md
 .plans
 *.local
 *.local.*
+
+AGENTS.md
